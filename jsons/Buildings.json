@@ -29,7 +29,7 @@
 		"specialistSlots": {"Scientist": 1},
 		"cost":120,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Faith] from [River] tiles [in this city]","1 Scientist slot"],
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]"],
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Construction"
 	},
@@ -55,7 +55,7 @@
 		"maintenance": 4,
 		"culture": 1,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities","New [Military] units start with [10] Experience [in this city]"],
+		"uniques": ["Removes extra unhappiness from annexed cities","New [Military] units start with [10] XP [in this city]"],
 		"requiredTech": "Construction"
 	},
 	{
