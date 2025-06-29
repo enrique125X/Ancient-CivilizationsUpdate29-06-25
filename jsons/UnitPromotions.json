@@ -5,12 +5,12 @@
 	},
     {
         "name": "Steppe Hunter",
-        "uniques": ["Can receive bonus movement promotion"],
+        "uniques": ["[+1] Movement"],
 	},
     {
         "name": "Horseback Rider",
         "prerequisites": ["Steppe Hunter"],
-        "uniques": ["[+2] Movement"],
+        "uniques": ["[+1] Movement"],
         "unitTypes": ["Archery"],
 	},
     {
